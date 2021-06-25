@@ -1040,3 +1040,11 @@ h4 {
         text-align: center;
     }
 }
+
+/* Modifications d'optimisation */
+
+/* responsivité des images-textes de page d'accueil */
+.img-txt
+{
+    width: 100%;
+}
